@@ -6,3 +6,4 @@ set of playlist features, participants’ systems shall generate a list of recom
 added to that playlist, thereby ‘continuing’ the playlist.
 
 Check the project web page : https://sites.google.com/tamu.edu/csce-670-rss/home
+Take a short video tour of our project : https://www.youtube.com/watch?v=ex-Oag4XUr4
